@@ -1,10 +1,8 @@
 <h1 align="center">Hi , I'm Le Minh Tuan</h1>
 <h3 align="center">I studied software engineering at Duy Tan University</h3>
-<p align='center'>
-<img 
+<img align="right"
     src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/273047918_1154538521752212_8550643428154506428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=V-Q6-6HU9eYAX-o0C_q&_nc_ht=scontent.fhan4-3.fna&oh=00_AfAP0C1YiWD2PpUdlj316Dw7YyPOcpA8J91CyAOHr7dbYA&oe=64CA890C"
     width="400">
-</p>
 <h4>
     https://bom.so/my-portfolio-mt
 </h4>
