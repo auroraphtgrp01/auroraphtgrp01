@@ -1,8 +1,14 @@
-<h1 align="center">🌟 Welcome to Le Minh Tuan's Digital Playground! 🚀</h1>
+<div align="center">
+  <h1>🚀 Welcome to Le Minh Tuan's Tech Universe! 🌟</h1>
+  <h3>🎓 Full Stack Architect & Blockchain Developer at Duy Tan University 💻</h3>
+</div>
 
-<h3 align="center">🎓 Crafting Code & Dreams at Duy Tan University 💻</h3>
-
-<img align="right" src="https://i.imgur.com/PF8DAH6.jpg" width="400" alt="Le Minh Tuan" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<table>
+<tr>
+  <td width="80%">
+<img src="https://i.imgur.com/PF8DAH6.jpg" width="400"  alt="Le Minh Tuan" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); object-fit: cover;">
+</td>
+<td width="20%">
 
 ```js
 // Le Minh Tuan: A Human-Readable Introduction
@@ -24,25 +30,81 @@ const tuan = new LeMinhTuan();
 tuan.sayHi();
 ```
 
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Microservices+Architect;Web3+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+  
+### Core Stack (NNPP)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Microservices & Event Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### DevOps & Containers
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+</div>
+
 ## 🎭 Who Am I?
+- 🏗️ **Full Stack Architect** specializing in NNPP stack & microservices
+- ⛓️ **Blockchain Developer** building the decentralized future
+- 🎹 Pianist who believes coding is like composing music
+- 📸 Photography enthusiast capturing both bugs and beautiful moments
 
-- 🧙‍♂️ A code wizard in training, turning caffeine into beautiful websites
-- 📸 Amateur photographer, capturing life one pixel at a time
-- 🎹 Pianist by night, turning binary into melody
-- 🌈 Professional people-person and certified conversation starter
+## 💻 Technical Expertise
+- 🎯 **Backend**: Scalable microservices with NestJS & Kafka
+- 🎨 **Frontend**: Micro-frontends architecture with Next.js
+- 📊 **Blockchain**: Smart contracts with Solidity & Web3
+- 🔗 **DevOps**: Containerization with Docker & Kubernetes
 
-## 🚀 My Mission
+## 🚀 Current Projects
+- 🌐 Developing a decentralized marketplace on Ethereum
+- 📱 Building a microservices-based chat platform
+- 🎨 Creating a micro-frontend architecture template
+- 🔗 Contributing to blockchain open-source projects
 
-To boldly code where no developer has coded before! I'm on a quest to create web experiences that are not just functional, but downright magical. ✨
+## 🎯 What's Next?
+- 📚 Exploring Layer 2 scaling solutions
+- 🔍 Implementing event-driven architectures
+- 🌟 Building decentralized applications (dApps)
+- 🤝 Contributing to Web3 ecosystem
 
-## 🌟 Fun Facts
+## 📫 Let's Connect!
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auroraphtgrp01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/auroraphtgrp01)
 
-- I can debug code faster than I can solve a Rubik's cube (which isn't saying much, tbh)
-- My plants are still alive, which I consider my greatest achievement to date
-- I once wrote a "Hello World" program that actually said "Goodbye World" - I like to keep things unpredictable!
+</div>
 
-## 📬 Let's Connect!
+---
+<div align="center">
+  
+> "The best way to predict the future is to invent it." - Alan Kay
 
-Got a project idea? Want to chat about the latest tech trends? Or just want to share a good meme? I'm all ears! Slide into my DMs on [Instagram](#) and let's start a conversation that could change the world (or at least make our day a bit brighter)!
+⭐️ From [auroraphtgrp01](https://github.com/auroraphtgrp01)
 
-Remember, in the world of coding, we don't make mistakes - we create "unexpected features". So let's get creative and code the future together! 🚀✨
+</div>
