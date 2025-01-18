@@ -43,8 +43,8 @@ tuan.sayHi();
 </div>
 
 ## 🏆 Achievements & Projects
-- 🥇 **First Place Winner** - OLP OpenSource 2024 National Competition
-- 🚀 **Founder of Uniko** ([uniko.id.vn](https://uniko.id.vn))
+- 🥇 **First Place Winner** - OLP OpenSource 2024 National Competition | [TuoiTre News](https://tuoitre.vn/sinh-vien-dai-hoc-duy-tan-dung-nhat-khoi-phan-mem-ma-nguon-mo-20241223103709649.htm)
+- 🚀 **Founder of Uniko** | [uniko.id.vn](https://uniko.id.vn)
   - Smart Financial Management Platform
   - Cross-platform support: Web, iOS, and Android
   - Innovative fintech solutions for modern users
