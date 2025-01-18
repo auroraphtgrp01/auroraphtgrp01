@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Welcome to Le Minh Tuan's Tech Universe! 🌟</h1>
-  <h3>🎓 Full Stack Architect & Blockchain Developer at Duy Tan University 💻</h3>
+  <h3>🎓 Senior Research Engineer & Full Stack Architect at CVS - Duy Tan University 💻</h3>
 </div>
 
 <table>
@@ -15,13 +15,15 @@
 class LeMinhTuan {
   constructor() {
     this.name = "Lê Minh Tuấn";
-    this.role = "Web Developer in Training";
+    this.birth_year = 2003;
+    this.role = "Senior Research Engineer";
     this.language_spoken = ["vi_VN", "en_US"];
     this.education = "Software Engineering @ Duy Tan University";
+    this.achievements = ["OLP OpenSource 2024 Champion"];
   }
 
   sayHi() {
-    console.log("Thanks for dropping by! Let's create something amazing together!");
+    console.log("Thanks for dropping by! Let's innovate together! 🚀");
   }
 }
 
@@ -31,15 +33,25 @@ tuan.sayHi();
 ```
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Microservices+Architect;Web3+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;Microservices+Architect;Web3+Enthusiast;Mobile+App+Developer)](https://git.io/typing-svg)
 
 </div>
+
+## 🏆 Achievements & Projects
+- 🥇 **First Place Winner** - OLP OpenSource 2024 National Competition
+- 🚀 **Founder of Uniko** ([uniko.id.vn](https://uniko.id.vn))
+  - Smart Financial Management Platform
+  - Cross-platform support: Web, iOS, and Android
+  - Innovative fintech solutions for modern users
+- 👨‍💻 **Senior Research Engineer** at [CVS - Duy Tan University](https://cvs.duytan.edu.vn)
+  - Full-stack development of enterprise solutions
+  - Research and implementation of cutting-edge technologies
+  - Technical leadership and mentoring
 
 ## 🛠️ Technology Stack
 
@@ -50,6 +62,10 @@ tuan.sayHi();
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Microservices & Event Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -69,28 +85,31 @@ tuan.sayHi();
 </div>
 
 ## 🎭 Who Am I?
-- 🏗️ **Full Stack Architect** specializing in NNPP stack & microservices
-- ⛓️ **Blockchain Developer** building the decentralized future
+- 🏗️ **Full Stack Architect** passionate about building scalable solutions
+- 📱 **Mobile Developer** creating seamless cross-platform experiences
+- 🎓 **Young Innovator** (Born in 2003) pushing technological boundaries
+- 🏆 **Competition Winner** with national recognition in open-source development
 - 🎹 Pianist who believes coding is like composing music
 - 📸 Photography enthusiast capturing both bugs and beautiful moments
 
 ## 💻 Technical Expertise
 - 🎯 **Backend**: Scalable microservices with NestJS & Kafka
-- 🎨 **Frontend**: Micro-frontends architecture with Next.js
+- 🎨 **Frontend**: Responsive web applications with Next.js
+- 📱 **Mobile**: Cross-platform development with Flutter & Dart
 - 📊 **Blockchain**: Smart contracts with Solidity & Web3
 - 🔗 **DevOps**: Containerization with Docker & Kubernetes
 
 ## 🚀 Current Projects
-- 🌐 Developing a decentralized marketplace on Ethereum
-- 📱 Building a microservices-based chat platform
-- 🎨 Creating a micro-frontend architecture template
-- 🔗 Contributing to blockchain open-source projects
+- 💰 Leading development of Uniko Financial Platform
+- 🎓 Contributing to CVS Duy Tan University's research projects
+- 🌐 Developing cross-platform mobile applications
+- 🔗 Exploring blockchain innovations
 
 ## 🎯 What's Next?
-- 📚 Exploring Layer 2 scaling solutions
-- 🔍 Implementing event-driven architectures
-- 🌟 Building decentralized applications (dApps)
-- 🤝 Contributing to Web3 ecosystem
+- 📚 Expanding Uniko's feature set
+- 🔍 Research in AI-driven financial solutions
+- 🌟 Building more cross-platform applications
+- 🤝 Mentoring next-generation developers
 
 ## 📫 Let's Connect!
 <div align="center">
@@ -102,7 +121,7 @@ tuan.sayHi();
 
 <div align="center">
   
- "The best way to predict the future is to invent it." - Alan Kay
+"Innovation is taking two things that already exist and putting them together in a new way." - Tom Freston
 
 ⭐️ From [auroraphtgrp01](https://github.com/auroraphtgrp01)
 
